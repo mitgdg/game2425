@@ -11,6 +11,9 @@ public class RatMovement : MonoBehaviour
     [SerializeField] float speed = 2f;
     [SerializeField] Transform transform;
 
+    [SerializeField] bool playerInCircle;
+    [SerializeField] Transform player;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -20,7 +23,19 @@ public class RatMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Move();  
+        Move();
+    }
+
+    void OnTriggerEnter2D(Collider2D other) {
+        if(other.gameObject.tag != "Player") return;
+        print("player spotted!!");
+        playerInCircle = true;
+    }
+
+    void OnTriggerExit2D(Collider2D other) {
+        if(other.gameObject.tag != "Player") return;
+        print("player left!");
+        playerInCircle = false;
     }
 
     public void Move() {
@@ -30,7 +45,10 @@ public class RatMovement : MonoBehaviour
             if(currPt >= xPoints.Length) currPt = 0;
         }
 
-        transform.position = Vector3.MoveTowards(transform.position, new Vector3(xPoints[currPt], yPoints[currPt], 0), speed * Time.deltaTime);
+        if(!playerInCircle) transform.position = Vector3.MoveTowards(transform.position, new Vector3(xPoints[currPt], yPoints[currPt], 0), speed * Time.deltaTime);
+        else {
+            transform.position = Vector3.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
+        }
 
     }
 }
