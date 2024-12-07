@@ -753,7 +753,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.75037026
+  m_Radius: 0.92783356
 --- !u!114 &1750881750
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -871,7 +871,7 @@ MonoBehaviour:
   xPoints: 0000000007000000
   yPoints: 0000000005000000
   currPt: 0
-  speed: 2
+  speed: 5
   transform: {fileID: 2051356990}
   playerInCircle: 0
   player: {fileID: 1474297709}
