@@ -14,6 +14,7 @@ public class PlayerMovement : MonoBehaviour
     
     private Rigidbody2D _rb;
     private SpriteRenderer _sr;
+    private Animator _animator;
 
     private int _idx;
     private float _timer;
@@ -58,6 +59,7 @@ public class PlayerMovement : MonoBehaviour
         _rb = GetComponent<Rigidbody2D>();
         _sr = GetComponent<SpriteRenderer>();
         _footstep = GetComponentInChildren<AudioSource>();
+        _animator = GetComponent<Animator>();
 
         if(PlayerPrefs.HasKey("x")) {
             this.gameObject.transform.position += new Vector3(PlayerPrefs.GetFloat("x"), PlayerPrefs.GetFloat("y"), 0);
@@ -83,6 +85,9 @@ public class PlayerMovement : MonoBehaviour
         var vertical = Input.GetAxis("Vertical");
         
         var dir = new Vector2(horizontal, vertical);
+
+        var directionAngle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+        _animator.SetBool("WalkingDown", directionAngle >= -135 && directionAngle < -45);
         var spriteIndex = DirectionToIndex(dir);
         //if (dir != Vector2.zero)
         //{
