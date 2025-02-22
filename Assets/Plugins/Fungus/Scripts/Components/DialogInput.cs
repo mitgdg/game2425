@@ -1,8 +1,8 @@
 // This code is part of the Fungus library (https://github.com/snozbot/fungus)
 // It is released for free under the MIT open source license (https://github.com/snozbot/fungus/blob/master/LICENSE)
-
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.EventSystems;
+
 
 namespace Fungus
 {
@@ -27,7 +27,7 @@ namespace Fungus
     public class DialogInput : MonoBehaviour
     {
         [Tooltip("Click to advance story")]
-        [SerializeField] protected ClickMode clickMode;
+        public ClickMode clickMode;
 
         [Tooltip("Delay between consecutive clicks. Useful to prevent accidentally clicking through story.")]
         [SerializeField] protected float nextClickDelay = 0f;
@@ -59,7 +59,7 @@ namespace Fungus
         // This method will automatically instantiate one if none exists.
         protected virtual void CheckEventSystem()
         {
-            EventSystem eventSystem = GameObject.FindObjectOfType<EventSystem>();
+            EventSystem eventSystem = GameObject.FindFirstObjectByType<EventSystem>();
             if (eventSystem == null)
             {
                 // Auto spawn an Event System from the prefab
@@ -71,7 +71,7 @@ namespace Fungus
                 }
             }
         }
-            
+
         protected virtual void Update()
         {
             if (EventSystem.current == null)
@@ -86,6 +86,9 @@ namespace Fungus
 
             if (writer != null)
             {
+                //print(EventSystem.current.GetComponent<StandaloneInputModule>());
+                //Input.GetButtonDown(((InputSystemUIInputModule)EventSystem.current.currentInputModule).submit)
+
                 if (Input.GetButtonDown(currentStandaloneInputModule.submitButton) ||
                     (cancelEnabled && Input.GetButton(currentStandaloneInputModule.cancelButton)))
                 {
@@ -95,32 +98,32 @@ namespace Fungus
 
             switch (clickMode)
             {
-            case ClickMode.Disabled:
-                break;
-            case ClickMode.ClickAnywhere:
-                if (Input.GetMouseButtonDown(0))
-                {
-                    SetClickAnywhereClickedFlag();
-                }
-                break;
-            case ClickMode.ClickOnDialog:
-                if (dialogClickedFlag)
-                {
-                    SetNextLineFlag();
-                    dialogClickedFlag = false;
-                }
-                break;
+                case ClickMode.Disabled:
+                    break;
+                case ClickMode.ClickAnywhere:
+                    if (Input.GetMouseButtonDown(0))
+                    {
+                        SetClickAnywhereClickedFlag();
+                    }
+                    break;
+                case ClickMode.ClickOnDialog:
+                    if (dialogClickedFlag)
+                    {
+                        SetNextLineFlag();
+                        dialogClickedFlag = false;
+                    }
+                    break;
             }
 
             if (ignoreClickTimer > 0f)
             {
-                ignoreClickTimer = Mathf.Max (ignoreClickTimer - Time.deltaTime, 0f);
+                ignoreClickTimer = Mathf.Max(ignoreClickTimer - Time.deltaTime, 0f);
             }
 
             if (ignoreMenuClicks)
             {
                 // Ignore input events if a Menu is being displayed
-                if (MenuDialog.ActiveMenuDialog != null && 
+                if (MenuDialog.ActiveMenuDialog != null &&
                     MenuDialog.ActiveMenuDialog.IsActive() &&
                     MenuDialog.ActiveMenuDialog.DisplayedOptionsCount > 0)
                 {
@@ -149,7 +152,7 @@ namespace Fungus
         /// </summary>
         public virtual void SetNextLineFlag()
         {
-            if(writer.IsWaitingForInput || writer.IsWriting)
+            if (writer.IsWaitingForInput || writer.IsWriting)
             {
                 nextLineInputFlag = true;
             }
