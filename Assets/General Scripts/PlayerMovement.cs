@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -18,6 +20,10 @@ public class PlayerMovement : MonoBehaviour
 
     private float _soundTimer;
     private AudioSource _footstep;
+
+    // private string current_scene;
+
+    // public GameObject InfoBankObj;
     
     private int DirectionToIndex(Vector2 dir)
     {
@@ -56,6 +62,10 @@ public class PlayerMovement : MonoBehaviour
         if(PlayerPrefs.HasKey("x")) {
             this.gameObject.transform.position += new Vector3(PlayerPrefs.GetFloat("x"), PlayerPrefs.GetFloat("y"), 0);
         }
+
+        // current_scene = SceneManager.GetActiveScene().name;
+
+        // Debug.Log("Current scene: " + current_scene);
 
     }
 
@@ -97,6 +107,19 @@ public class PlayerMovement : MonoBehaviour
         PlayerPrefs.SetFloat("y", this.gameObject.transform.position.y);
 
     }
+
+    // private void Update()
+    // {
+    //     if (Input.GetKeyUp(KeyCode.Space)) {
+    //         Debug.Log("Activating scene change");
+    //         if (current_scene == "Present") {
+    //             SceneManager.LoadScene("Not Present");
+    //         }
+    //         if (current_scene == "Not Present") {
+    //             SceneManager.LoadScene("Present");
+    //         }
+    //     }
+    // }
 
     public bool GetCanInteract() 
     {
