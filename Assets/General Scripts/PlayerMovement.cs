@@ -87,7 +87,8 @@ public class PlayerMovement : MonoBehaviour
         var dir = new Vector2(horizontal, vertical);
 
         var directionAngle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
-        _animator.SetBool("WalkingDown", directionAngle >= -135 && directionAngle < -45);
+        _animator.SetBool("IsWalking", dir != Vector2.zero);
+        _animator.SetFloat("DirectionAngle", directionAngle);
         var spriteIndex = DirectionToIndex(dir);
         //if (dir != Vector2.zero)
         //{
