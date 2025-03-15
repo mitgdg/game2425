@@ -8,20 +8,10 @@ public class PlayerInventory : MonoBehaviour
     // Each item in the game is assigned an integer ID, so the value at index ID is the number of that item the player has.
     public int[] inventory = {0, 0, 0, 0, 0};
     public int money = 100;
-    public bool toggle = false;
-
-    void Start()
-    {
-        // UICanvas.SetActive(UIIsActive);
-    }
 
     void Update()
     {
         // Update the player's information in InfoBank
-        if (!toggle) {
-            Debug.Log("Putting player inventory into InfoBank inventory!");
-            toggle = true;
-        }
         InfoBank.instance.playerInventory = inventory;
         InfoBank.instance.playerMoney = money;
 

@@ -8,8 +8,10 @@ public class InfoBank : MonoBehaviour
     public static InfoBank instance;
 
     // All tracked information fields are listed here
-    public int[] playerInventory = null;
+    public int[] playerInventory = {};
     public int playerMoney = -1;
+    public string currentScene = "";
+    public string lastScene = "";
 
     // Initialize the instance when the game starts
     private void Awake()
@@ -29,6 +31,9 @@ public class InfoBank : MonoBehaviour
     // Pass information to relevant GameObjects when the scene changes
     void OnSceneLoaded (Scene scene, LoadSceneMode mode)
     {
+        string newScene = scene.name;
+        lastScene = currentScene;
+        currentScene = newScene;
         if (scene.name == "Present" || scene.name == "Not Present") {
             GameObject player = GameObject.FindGameObjectsWithTag("Player")[0];
             PlayerInventory invScript = player.GetComponent<PlayerInventory>();
