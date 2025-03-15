@@ -689,7 +689,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 654790186088140367, guid: d6469e888739049f89478eeaf0337343, type: 3}
+  m_Sprite: {fileID: 1075993247170539406, guid: 9d266c05a185f44d98c8a6c5f689656e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -710,7 +710,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 19.1, y: 2.9, z: 0}
-  m_LocalScale: {x: 5, y: 5, z: 5}
+  m_LocalScale: {x: 5, y: 4.9999995, z: 5}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -733,10 +733,7 @@ MonoBehaviour:
   _idle:
   - {fileID: 654790186088140367, guid: d6469e888739049f89478eeaf0337343, type: 3}
   _walkUp: []
-  _walkDown:
-  - {fileID: -2514365219955199134, guid: d6469e888739049f89478eeaf0337343, type: 3}
-  - {fileID: 2478272943848161897, guid: d6469e888739049f89478eeaf0337343, type: 3}
-  - {fileID: -3193566472004649513, guid: d6469e888739049f89478eeaf0337343, type: 3}
+  _walkDown: []
   _walkHorizontal: []
 --- !u!50 &1474297711
 Rigidbody2D:

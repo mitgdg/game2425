@@ -62,7 +62,7 @@ public class PlayerMovement : MonoBehaviour
         _animator = GetComponent<Animator>();
 
         if(PlayerPrefs.HasKey("x")) {
-            this.gameObject.transform.position += new Vector3(PlayerPrefs.GetFloat("x"), PlayerPrefs.GetFloat("y"), 0);
+            gameObject.transform.position += new Vector3(PlayerPrefs.GetFloat("x"), PlayerPrefs.GetFloat("y"), 0);
         }
 
         // current_scene = SceneManager.GetActiveScene().name;
