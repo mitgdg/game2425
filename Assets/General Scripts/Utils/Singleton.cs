@@ -1,16 +1,20 @@
 using UnityEngine;
 
 //Singletons will stay alive/synced throughout scenes
-//Credit to Danqzq <3
-public abstract class Singleton<T> : MonoBehaviour where T : Singleton<T> {
+//Credit to danqzq <3
+
+//Example of how to use: public class className : Singleton<className>
+//and to call it, use className.Instance :)
+public abstract class Singleton<T> : MonoBehaviour where T : Singleton<T>
+{
     protected static T instance;
-    
+
     public static T Instance
     {
         get
         {
             if (instance) return instance;
-            
+
             instance = FindObjectOfType<T>();
 
             if (!instance) instance = new GameObject(typeof(T).ToString()).AddComponent<T>();
