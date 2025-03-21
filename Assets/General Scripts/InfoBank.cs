@@ -1,16 +1,49 @@
-// using UnityEngine;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
-// public class InfoBank : MonoBehaviour
-// {
-//     public int test_number = 0;
+public class InfoBank : MonoBehaviour
+{
+    // This class generates an object instance that holds information about the game state that persists between scene changes.
+    // TODO: Integrate InfoBank with Singleton class (I don't know how Singleton works yet, but it seems to have a similar purpose to InfoBank.)
+    public static InfoBank instance;
 
-//     private void Start()
-//     {
-//         // Print test_number
-//         Debug.Log("Test number:" + test_number);
+    // All tracked information fields are listed here
+    public int[] playerInventory = {};
+    public int playerMoney = -1;
+    public string currentScene = "";
+    public string lastScene = "";
 
-//         // TODO: Have the player set their own number into this script, then switch into a
-//         // different scene. If the script prints the same number instead of 0 when the next
-//         // scene loads, then the script can be used to keep track of info during time travel.
-//     }
-// }
+    // Initialize the instance when the game starts
+    private void Awake()
+    {
+        if (instance != null)
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        instance = this;
+        DontDestroyOnLoad(gameObject);
+
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    // Pass information to relevant GameObjects when the scene changes
+    void OnSceneLoaded (Scene scene, LoadSceneMode mode)
+    {
+        string newScene = scene.name;
+        lastScene = currentScene;
+        currentScene = newScene;
+        if (scene.name == "Present" || scene.name == "Not Present") {
+            GameObject player = GameObject.FindGameObjectsWithTag("Player")[0];
+            PlayerInventory invScript = player.GetComponent<PlayerInventory>();
+            if (playerInventory.Length != 0) {
+                // Debug.Log("Putting InfoBank inventory into player inventory!");
+                invScript.inventory = playerInventory;
+            }
+            if (playerMoney != -1) {
+                invScript.money = playerMoney;
+            }
+        }
+    }
+}
