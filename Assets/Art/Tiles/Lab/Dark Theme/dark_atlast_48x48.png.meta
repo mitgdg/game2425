@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: f332a4af5450d441aba78740e30b8071
+guid: aa38131e37c3248f892384f9c67bf5b1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5873757027372201671
-    second: basic_tileset_0
+      213: 4390458514784561280
+    second: dark_atlast_48x48_0
   - first:
-      213: -7121172124576162822
-    second: basic_tileset_1
+      213: 73015221428781657
+    second: dark_atlast_48x48_1
   - first:
-      213: -8691081482168672064
-    second: basic_tileset_2
+      213: 7617831734351813904
+    second: dark_atlast_48x48_2
   - first:
-      213: -2363265301962092762
-    second: basic_tileset_3
+      213: 6300426929271097850
+    second: dark_atlast_48x48_3
   - first:
-      213: 1270582286708043047
-    second: basic_tileset_4
+      213: 3675424358875889764
+    second: dark_atlast_48x48_4
   - first:
-      213: 1069816064173164433
-    second: basic_tileset_5
+      213: -8747807735435503886
+    second: dark_atlast_48x48_5
   - first:
-      213: -1435092147808692328
-    second: basic_tileset_6
+      213: 7414326226214841262
+    second: dark_atlast_48x48_6
   - first:
-      213: 6998643270353787209
-    second: basic_tileset_7
+      213: 3040215198641489043
+    second: dark_atlast_48x48_7
   - first:
-      213: -1644595752766469588
-    second: basic_tileset_8
+      213: -7105327188689750644
+    second: dark_atlast_48x48_8
   - first:
-      213: 3748918000141409761
-    second: basic_tileset_9
+      213: 6429695286870488828
+    second: dark_atlast_48x48_9
   - first:
-      213: -3257793956091714631
-    second: basic_tileset_10
+      213: 5117622985299275468
+    second: dark_atlast_48x48_10
   - first:
-      213: -7534586172900040523
-    second: basic_tileset_11
+      213: -1731582837713986713
+    second: dark_atlast_48x48_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -172,13 +172,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: basic_tileset_0
+      name: dark_atlast_48x48_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 34
-        width: 18
-        height: 18
+        y: 623
+        width: 145
+        height: 145
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,64 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c6797955e6c38150800000000000000
-      internalID: 5873757027372201671
+      spriteID: 088a2dee1ca0eec30800000000000000
+      internalID: 4390458514784561280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: basic_tileset_1
+      name: dark_atlast_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 623
+        width: 146
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952857005f6630100800000000000000
+      internalID: 73015221428781657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_atlast_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 623
+        width: 241
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ddcb4f999f7b960800000000000000
+      internalID: 7617831734351813904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_atlast_48x48_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 17
-        width: 18
-        height: 18
+        y: 431
+        width: 145
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +253,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: afb593aaea38c2d90800000000000000
-      internalID: -7121172124576162822
+      spriteID: af9428c39ec9f6750800000000000000
+      internalID: 6300426929271097850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: basic_tileset_2
+      name: dark_atlast_48x48_4
       rect:
         serializedVersion: 2
-        x: 17
-        y: 34
-        width: 18
-        height: 18
+        x: 191
+        y: 431
+        width: 146
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +275,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c06c557073136780800000000000000
-      internalID: -8691081482168672064
+      spriteID: 4608d9d2bfab10330800000000000000
+      internalID: 3675424358875889764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: basic_tileset_3
+      name: dark_atlast_48x48_5
       rect:
         serializedVersion: 2
-        x: 17
-        y: 17
-        width: 18
-        height: 18
+        x: 383
+        y: 383
+        width: 98
+        height: 194
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,20 +297,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62f0b8e9abef33fd0800000000000000
-      internalID: -2363265301962092762
+      spriteID: 2f6d3f5663b899680800000000000000
+      internalID: -8747807735435503886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: basic_tileset_4
+      name: dark_atlast_48x48_6
       rect:
         serializedVersion: 2
-        x: 34
-        y: 34
-        width: 18
-        height: 17
+        x: 527
+        y: 383
+        width: 97
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,86 +319,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72de221abd302a110800000000000000
-      internalID: 1270582286708043047
+      spriteID: eabe5628b6af4e660800000000000000
+      internalID: 7414326226214841262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: basic_tileset_5
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 17
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1974c00da00c8de00800000000000000
-      internalID: 1069816064173164433
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: basic_tileset_6
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 34
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89719e58b47851ce0800000000000000
-      internalID: -1435092147808692328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: basic_tileset_7
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 17
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9499d1759fc202160800000000000000
-      internalID: 6998643270353787209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: basic_tileset_8
+      name: dark_atlast_48x48_7
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 18
-        height: 18
+        y: 239
+        width: 289
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,20 +341,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2a0d3550e83d29e0800000000000000
-      internalID: -1644595752766469588
+      spriteID: 39405cb8d93013a20800000000000000
+      internalID: 3040215198641489043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: basic_tileset_9
+      name: dark_atlast_48x48_8
       rect:
         serializedVersion: 2
-        x: 17
+        x: 35
         y: 0
-        width: 18
-        height: 18
+        width: 26
+        height: 193
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,20 +363,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ed1f7afe05d60430800000000000000
-      internalID: 3748918000141409761
+      spriteID: c85f839419ec46d90800000000000000
+      internalID: -7105327188689750644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: basic_tileset_10
+      name: dark_atlast_48x48_9
       rect:
         serializedVersion: 2
-        x: 34
+        x: 131
         y: 0
-        width: 18
-        height: 18
+        width: 26
+        height: 193
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,20 +385,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b32dbf48adf9c2d0800000000000000
-      internalID: -3257793956091714631
+      spriteID: cf63be32ccdda3950800000000000000
+      internalID: 6429695286870488828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: basic_tileset_11
+      name: dark_atlast_48x48_10
       rect:
         serializedVersion: 2
-        x: 51
-        y: 0
-        width: 17
-        height: 18
+        x: 191
+        y: 179
+        width: 98
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -429,8 +407,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b029b2bbc5cf6790800000000000000
-      internalID: -7534586172900040523
+      spriteID: cce2325adf2750740800000000000000
+      internalID: 5117622985299275468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_atlast_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 131
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b15ea559e28f7e0800000000000000
+      internalID: -1731582837713986713
       vertices: []
       indices: 
       edges: []
@@ -448,19 +448,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      basic_tileset_0: 5873757027372201671
-      basic_tileset_1: -7121172124576162822
-      basic_tileset_10: -3257793956091714631
-      basic_tileset_11: -7534586172900040523
-      basic_tileset_2: -8691081482168672064
-      basic_tileset_3: -2363265301962092762
-      basic_tileset_4: 1270582286708043047
-      basic_tileset_5: 1069816064173164433
-      basic_tileset_6: -1435092147808692328
-      basic_tileset_7: 6998643270353787209
-      basic_tileset_8: -1644595752766469588
-      basic_tileset_9: 3748918000141409761
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

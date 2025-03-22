@@ -1,0 +1,4131 @@
+fileFormatVersion: 2
+guid: d9b3a3e8c628b42cbbba2b5735c84456
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6195128954709500875
+    second: atlast_labels_0
+  - first:
+      213: 3818334184428820980
+    second: atlast_labels_1
+  - first:
+      213: -7973245397395409256
+    second: atlast_labels_2
+  - first:
+      213: -3521291193725109080
+    second: atlast_labels_3
+  - first:
+      213: -2864422567127405721
+    second: atlast_labels_4
+  - first:
+      213: -1922828394126031941
+    second: atlast_labels_5
+  - first:
+      213: 4550539068435223488
+    second: atlast_labels_6
+  - first:
+      213: 4540047093769891056
+    second: atlast_labels_7
+  - first:
+      213: 7495978917362288552
+    second: atlast_labels_8
+  - first:
+      213: 9160654522849323752
+    second: atlast_labels_9
+  - first:
+      213: 7148123046388499449
+    second: atlast_labels_10
+  - first:
+      213: -3157679305133033703
+    second: atlast_labels_11
+  - first:
+      213: 195105470552819042
+    second: atlast_labels_12
+  - first:
+      213: -4925112538710899494
+    second: atlast_labels_13
+  - first:
+      213: 9199771099298976997
+    second: atlast_labels_14
+  - first:
+      213: 4653966344198229838
+    second: atlast_labels_15
+  - first:
+      213: -1480686358033310407
+    second: atlast_labels_16
+  - first:
+      213: 5408128393089131104
+    second: atlast_labels_17
+  - first:
+      213: 4390887547330950283
+    second: atlast_labels_18
+  - first:
+      213: -3242623122231529270
+    second: atlast_labels_19
+  - first:
+      213: 5628625287016180716
+    second: atlast_labels_20
+  - first:
+      213: 2745586738998102563
+    second: atlast_labels_21
+  - first:
+      213: -8935353660060783951
+    second: atlast_labels_22
+  - first:
+      213: 9009133121691790657
+    second: atlast_labels_23
+  - first:
+      213: 4635876086386629578
+    second: atlast_labels_24
+  - first:
+      213: -4138806059147288922
+    second: atlast_labels_25
+  - first:
+      213: -7324072758524927462
+    second: atlast_labels_26
+  - first:
+      213: -7229049228747793445
+    second: atlast_labels_27
+  - first:
+      213: -5385413089695919804
+    second: atlast_labels_28
+  - first:
+      213: 5554694663432961740
+    second: atlast_labels_29
+  - first:
+      213: 5450025380199554800
+    second: atlast_labels_30
+  - first:
+      213: -7608943891990210655
+    second: atlast_labels_31
+  - first:
+      213: -4446736930223144093
+    second: atlast_labels_32
+  - first:
+      213: 2953514805567373304
+    second: atlast_labels_33
+  - first:
+      213: -1325864932688647815
+    second: atlast_labels_34
+  - first:
+      213: -6132970832859912631
+    second: atlast_labels_35
+  - first:
+      213: 1904478959789953366
+    second: atlast_labels_36
+  - first:
+      213: -4579788838360385944
+    second: atlast_labels_37
+  - first:
+      213: -1706924373506313906
+    second: atlast_labels_38
+  - first:
+      213: -2071818707173243167
+    second: atlast_labels_39
+  - first:
+      213: -7704712000861411080
+    second: atlast_labels_40
+  - first:
+      213: 5304061170961948746
+    second: atlast_labels_41
+  - first:
+      213: 3505599203650319903
+    second: atlast_labels_42
+  - first:
+      213: -4329914200773036697
+    second: atlast_labels_43
+  - first:
+      213: -2722851934276969624
+    second: atlast_labels_44
+  - first:
+      213: -300647790860594855
+    second: atlast_labels_45
+  - first:
+      213: -8501428921776487324
+    second: atlast_labels_46
+  - first:
+      213: 9128205810910595512
+    second: atlast_labels_47
+  - first:
+      213: 3033775940799287668
+    second: atlast_labels_48
+  - first:
+      213: 6290178029276049842
+    second: atlast_labels_49
+  - first:
+      213: 241002323838432014
+    second: atlast_labels_50
+  - first:
+      213: -1844903174370343840
+    second: atlast_labels_51
+  - first:
+      213: -9029623482984410295
+    second: atlast_labels_52
+  - first:
+      213: -8547994525012148745
+    second: atlast_labels_53
+  - first:
+      213: -5167731833877322347
+    second: atlast_labels_54
+  - first:
+      213: 4951221058241664789
+    second: atlast_labels_55
+  - first:
+      213: 7359691586400759320
+    second: atlast_labels_56
+  - first:
+      213: 6004625922205952562
+    second: atlast_labels_57
+  - first:
+      213: -1803532154713397383
+    second: atlast_labels_58
+  - first:
+      213: -746051647243828649
+    second: atlast_labels_59
+  - first:
+      213: 6975109557142999895
+    second: atlast_labels_60
+  - first:
+      213: 6735800119233311725
+    second: atlast_labels_61
+  - first:
+      213: -2198373983677835027
+    second: atlast_labels_62
+  - first:
+      213: -9014507277826567182
+    second: atlast_labels_63
+  - first:
+      213: -2371571909572788862
+    second: atlast_labels_64
+  - first:
+      213: 2070230082781646262
+    second: atlast_labels_65
+  - first:
+      213: 8988413515881219812
+    second: atlast_labels_66
+  - first:
+      213: -274144731669587091
+    second: atlast_labels_67
+  - first:
+      213: 1055639903284898384
+    second: atlast_labels_68
+  - first:
+      213: -4557586951805037567
+    second: atlast_labels_69
+  - first:
+      213: -4910725959561668725
+    second: atlast_labels_70
+  - first:
+      213: 1785791606198980152
+    second: atlast_labels_71
+  - first:
+      213: -1922958989432901334
+    second: atlast_labels_72
+  - first:
+      213: -7916356547291826686
+    second: atlast_labels_73
+  - first:
+      213: -537072882036216918
+    second: atlast_labels_74
+  - first:
+      213: -5516176324512438830
+    second: atlast_labels_75
+  - first:
+      213: 6599579061469175263
+    second: atlast_labels_76
+  - first:
+      213: -3039158766256599211
+    second: atlast_labels_77
+  - first:
+      213: -2150262453487918791
+    second: atlast_labels_78
+  - first:
+      213: 7230871730063610305
+    second: atlast_labels_79
+  - first:
+      213: 6378387871264577017
+    second: atlast_labels_80
+  - first:
+      213: 5824248329687129000
+    second: atlast_labels_81
+  - first:
+      213: -4645419229143804633
+    second: atlast_labels_82
+  - first:
+      213: -8448046113425792870
+    second: atlast_labels_83
+  - first:
+      213: -4649498908823087597
+    second: atlast_labels_84
+  - first:
+      213: -519677060750346107
+    second: atlast_labels_85
+  - first:
+      213: -7646538680854792577
+    second: atlast_labels_86
+  - first:
+      213: -3069090933875697390
+    second: atlast_labels_87
+  - first:
+      213: 5921177606991586398
+    second: atlast_labels_88
+  - first:
+      213: -8269148005835114885
+    second: atlast_labels_89
+  - first:
+      213: 1142996996695400309
+    second: atlast_labels_90
+  - first:
+      213: 3387932131632904211
+    second: atlast_labels_91
+  - first:
+      213: -5589248173998786394
+    second: atlast_labels_92
+  - first:
+      213: 1840075489879814050
+    second: atlast_labels_93
+  - first:
+      213: -711486910284055966
+    second: atlast_labels_94
+  - first:
+      213: -2946832877429826459
+    second: atlast_labels_95
+  - first:
+      213: -5297449650244091835
+    second: atlast_labels_96
+  - first:
+      213: -7861549066698133728
+    second: atlast_labels_97
+  - first:
+      213: -4691116076265384199
+    second: atlast_labels_98
+  - first:
+      213: 321961013443736179
+    second: atlast_labels_99
+  - first:
+      213: -5734860575893983846
+    second: atlast_labels_100
+  - first:
+      213: 5282547674380590559
+    second: atlast_labels_101
+  - first:
+      213: 4645928150531031633
+    second: atlast_labels_102
+  - first:
+      213: 485668819696599434
+    second: atlast_labels_103
+  - first:
+      213: -5867072316206490627
+    second: atlast_labels_104
+  - first:
+      213: -7001078777266951272
+    second: atlast_labels_105
+  - first:
+      213: -3077894358273555717
+    second: atlast_labels_106
+  - first:
+      213: -4787164332735932385
+    second: atlast_labels_107
+  - first:
+      213: 7458511003124337755
+    second: atlast_labels_108
+  - first:
+      213: 8607543217644085098
+    second: atlast_labels_109
+  - first:
+      213: 4683735589202753763
+    second: atlast_labels_110
+  - first:
+      213: 4429263022547471873
+    second: atlast_labels_111
+  - first:
+      213: 7385658488441860154
+    second: atlast_labels_112
+  - first:
+      213: 2349579882332801236
+    second: atlast_labels_113
+  - first:
+      213: -1768056287379500311
+    second: atlast_labels_114
+  - first:
+      213: 4581236644029353626
+    second: atlast_labels_115
+  - first:
+      213: 6751302869984107143
+    second: atlast_labels_116
+  - first:
+      213: 353794623795256279
+    second: atlast_labels_117
+  - first:
+      213: -8387386718762786615
+    second: atlast_labels_118
+  - first:
+      213: 4418239567115052083
+    second: atlast_labels_119
+  - first:
+      213: -1897368893426464967
+    second: atlast_labels_120
+  - first:
+      213: -2380554329959650178
+    second: atlast_labels_121
+  - first:
+      213: -2397756140572925175
+    second: atlast_labels_122
+  - first:
+      213: 5604108976997123714
+    second: atlast_labels_123
+  - first:
+      213: 8383265689130521742
+    second: atlast_labels_124
+  - first:
+      213: 6875262947790907636
+    second: atlast_labels_125
+  - first:
+      213: -1767814674140619979
+    second: atlast_labels_126
+  - first:
+      213: 7291521318832618526
+    second: atlast_labels_127
+  - first:
+      213: 3131297756545403448
+    second: atlast_labels_128
+  - first:
+      213: -6589753262401081409
+    second: atlast_labels_129
+  - first:
+      213: -7959421888417404662
+    second: atlast_labels_130
+  - first:
+      213: 3433005566539102598
+    second: atlast_labels_131
+  - first:
+      213: 4692695835424479354
+    second: atlast_labels_132
+  - first:
+      213: 3227849915341626405
+    second: atlast_labels_133
+  - first:
+      213: -8590524951103129572
+    second: atlast_labels_134
+  - first:
+      213: 3615034451782092472
+    second: atlast_labels_135
+  - first:
+      213: 1216040965162046500
+    second: atlast_labels_136
+  - first:
+      213: -6771211598631550551
+    second: atlast_labels_137
+  - first:
+      213: -837310725022625574
+    second: atlast_labels_138
+  - first:
+      213: 1376027509588466964
+    second: atlast_labels_139
+  - first:
+      213: -1446942003173295030
+    second: atlast_labels_140
+  - first:
+      213: -320716362244202053
+    second: atlast_labels_141
+  - first:
+      213: -6883631974348044508
+    second: atlast_labels_142
+  - first:
+      213: 692149977832561400
+    second: atlast_labels_143
+  - first:
+      213: -3350727847944075774
+    second: atlast_labels_144
+  - first:
+      213: 2485152445705995086
+    second: atlast_labels_145
+  - first:
+      213: 687469375750906103
+    second: atlast_labels_146
+  - first:
+      213: 4855798596137066417
+    second: atlast_labels_147
+  - first:
+      213: 7939521152765878310
+    second: atlast_labels_148
+  - first:
+      213: 8115235292671352623
+    second: atlast_labels_149
+  - first:
+      213: 9157031031544811253
+    second: atlast_labels_150
+  - first:
+      213: -5212563806813312129
+    second: atlast_labels_151
+  - first:
+      213: 9111344846336489352
+    second: atlast_labels_152
+  - first:
+      213: -4187438793934864657
+    second: atlast_labels_153
+  - first:
+      213: 3713918741665873918
+    second: atlast_labels_154
+  - first:
+      213: 1279248154278891894
+    second: atlast_labels_155
+  - first:
+      213: -4649149470382626011
+    second: atlast_labels_156
+  - first:
+      213: 5016544502558120083
+    second: atlast_labels_157
+  - first:
+      213: 541783004933815538
+    second: atlast_labels_158
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: OSXUniversal
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlast_labels_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2159
+        width: 418
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3623b06f489f550800000000000000
+      internalID: 6195128954709500875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2175
+        width: 386
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f95c98d5b27df430800000000000000
+      internalID: 3818334184428820980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2159
+        width: 418
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8967a3d1e87595190800000000000000
+      internalID: -7973245397395409256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2175
+        width: 386
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acbd4fd05cd12fc0800000000000000
+      internalID: -3521291193725109080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_4
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2159
+        width: 674
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b22cff9d68f38d0800000000000000
+      internalID: -2864422567127405721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_5
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2175
+        width: 642
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3451c53cdb055e0800000000000000
+      internalID: -1922828394126031941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2082
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c35e964c23c62f30800000000000000
+      internalID: 4550539068435223488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2082
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fce2bf07cc710f30800000000000000
+      internalID: 4540047093769891056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2082
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a742352c11170860800000000000000
+      internalID: 7495978917362288552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2082
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea6288d0ce212f70800000000000000
+      internalID: 9160654522849323752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2082
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f305cec90c333360800000000000000
+      internalID: 7148123046388499449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2082
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91771fee66bad24d0800000000000000
+      internalID: -3157679305133033703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2082
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265490a446725b200800000000000000
+      internalID: 195105470552819042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2082
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4805b8d3c76abb0800000000000000
+      internalID: -4925112538710899494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_14
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2082
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4de9482172caf70800000000000000
+      internalID: 9199771099298976997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_15
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2079
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f0f867bb5369040800000000000000
+      internalID: 4653966344198229838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_16
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 2079
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d58a53a9b837be0800000000000000
+      internalID: -1480686358033310407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_17
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 2079
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06228c9be188d0b40800000000000000
+      internalID: 5408128393089131104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_18
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2079
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84f85bd5f09fec30800000000000000
+      internalID: 4390887547330950283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_19
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 2079
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0fbe25373eff2d0800000000000000
+      internalID: -3242623122231529270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_20
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2079
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb616670e4ec1e40800000000000000
+      internalID: 5628625287016180716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_21
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2079
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a4106a7984a1620800000000000000
+      internalID: 2745586738998102563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_22
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2078
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba279d003f3ff380800000000000000
+      internalID: -8935353660060783951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_23
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2079
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d25ac77ded60d70800000000000000
+      internalID: 9009133121691790657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2079
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb9dc71db0f55040800000000000000
+      internalID: 4635876086386629578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_25
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 2079
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae9a4a41d10096c0800000000000000
+      internalID: -4138806059147288922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_26
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2079
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12a10771aaab5a90800000000000000
+      internalID: -7324072758524927462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_27
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 2078
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb1da017024dab90800000000000000
+      internalID: -7229049228747793445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_28
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 2079
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4419febf35b2345b0800000000000000
+      internalID: -5385413089695919804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_29
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 2079
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccefda9cd5d361d40800000000000000
+      internalID: 5554694663432961740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_30
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2073
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe58a3353162ab40800000000000000
+      internalID: 5450025380199554800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_31
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2005
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a79b0a18d9976690800000000000000
+      internalID: -7608943891990210655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_32
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2005
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363407062540a42c0800000000000000
+      internalID: -4446736930223144093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2005
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff33b8311efcf820800000000000000
+      internalID: 2953514805567373304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_34
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2005
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97922f25ed4999de0800000000000000
+      internalID: -1325864932688647815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_35
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2005
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ad89758f43eaa0800000000000000
+      internalID: -6132970832859912631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_36
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2005
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6515c7806811e6a10800000000000000
+      internalID: 1904478959789953366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_37
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2005
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866fa37f0525170c0800000000000000
+      internalID: -4579788838360385944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_38
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2005
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4133b27359cf48e0800000000000000
+      internalID: -1706924373506313906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_39
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2005
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e60eefdcdb6f33e0800000000000000
+      internalID: -2071818707173243167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_40
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 2002
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f867fba14d531590800000000000000
+      internalID: -7704712000861411080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_41
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2002
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40212a688fcb9940800000000000000
+      internalID: 5304061170961948746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_42
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2002
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16387af6e366a030800000000000000
+      internalID: 3505599203650319903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_43
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2002
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765f00ba9fd09e3c0800000000000000
+      internalID: -4329914200773036697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_44
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2002
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b9f61979c763ad0800000000000000
+      internalID: -2722851934276969624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_45
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2002
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9519f375d62e3dbf0800000000000000
+      internalID: -300647790860594855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_46
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 2002
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c74a207bd40a80800000000000000
+      internalID: -8501428921776487324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_47
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 2002
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b98bfb52d6edae70800000000000000
+      internalID: 9128205810910595512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_48
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2002
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471d77ff4232a1a20800000000000000
+      internalID: 3033775940799287668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_49
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2002
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b137f047933b4750800000000000000
+      internalID: 6290178029276049842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_50
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2002
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03fe6e2656385300800000000000000
+      internalID: 241002323838432014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_51
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2002
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0644aae66569566e0800000000000000
+      internalID: -1844903174370343840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1519
+        width: 418
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9435031884550b280800000000000000
+      internalID: -9029623482984410295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1535
+        width: 386
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdbaaac44c6f5980800000000000000
+      internalID: -8547994525012148745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_54
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1519
+        width: 418
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595a343e6478848b0800000000000000
+      internalID: -5167731833877322347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_55
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1535
+        width: 386
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5179decd15546b440800000000000000
+      internalID: 4951221058241664789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_56
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1407
+        width: 258
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e29d72180e22660800000000000000
+      internalID: 7359691586400759320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_57
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1407
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a203e5677b45350800000000000000
+      internalID: 6004625922205952562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1441
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97720519f0198f6e0800000000000000
+      internalID: -1803532154713397383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1441
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752cfe5cafd75a5f0800000000000000
+      internalID: -746051647243828649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_60
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1442
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d0febf219cc060800000000000000
+      internalID: 6975109557142999895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_61
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1442
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de37fe8458e5a7d50800000000000000
+      internalID: 6735800119233311725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_62
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1442
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de81c63628ecd71e0800000000000000
+      internalID: -2198373983677835027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_63
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1441
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f359f7446906e280800000000000000
+      internalID: -9014507277826567182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_64
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1441
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d7e92d9eb761fd0800000000000000
+      internalID: -2371571909572788862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_65
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1442
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd078faa4feabc10800000000000000
+      internalID: 2070230082781646262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_66
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1442
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e68b6458724dbc70800000000000000
+      internalID: 8988413515881219812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_67
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1442
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b1acba1da023cf0800000000000000
+      internalID: -274144731669587091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_68
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1442
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a260626e266ae00800000000000000
+      internalID: 1055639903284898384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_69
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1442
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10494b080d230c0c0800000000000000
+      internalID: -4557586951805037567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_70
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1442
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87990702c899dbb0800000000000000
+      internalID: -4910725959561668725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_71
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1442
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e4d5a110868c810800000000000000
+      internalID: 1785791606198980152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1365
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a213535ccf64055e0800000000000000
+      internalID: -1922958989432901334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_73
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1365
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2063553b9a3732290800000000000000
+      internalID: -7916356547291826686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_74
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1365
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab6cbf2f0feb88f0800000000000000
+      internalID: -537072882036216918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1365
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5240bdbda9273b0800000000000000
+      internalID: -5516176324512438830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_76
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1365
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddd9f9b03a669b50800000000000000
+      internalID: 6599579061469175263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_77
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1365
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fc249443db2d5d0800000000000000
+      internalID: -3039158766256599211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_78
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1365
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9312efde0bbb822e0800000000000000
+      internalID: -2150262453487918791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1365
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c11bd61787395460800000000000000
+      internalID: 7230871730063610305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_80
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1365
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5926a89f5948850800000000000000
+      internalID: 6378387871264577017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_81
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1365
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abd9a66ff2e3d050800000000000000
+      internalID: 5824248329687129000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_82
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1365
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7255d16d2d7288fb0800000000000000
+      internalID: -4645419229143804633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_83
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1365
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90e22bc1d282ca80800000000000000
+      internalID: -8448046113425792870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_84
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1365
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31698046069a97fb0800000000000000
+      internalID: -4649498908823087597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_85
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1365
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5887e04777cb9c8f0800000000000000
+      internalID: -519677060750346107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_86
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1391
+        width: 290
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76bd56359902e590800000000000000
+      internalID: -7646538680854792577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_87
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1391
+        width: 290
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21997fe6e066865d0800000000000000
+      internalID: -3069090933875697390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_88
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1313
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e542bbc69af3c2250800000000000000
+      internalID: 5921177606991586398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_89
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1313
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76711553b51e3d80800000000000000
+      internalID: -8269148005835114885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_90
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1312
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f1e5f66bdbcdf00800000000000000
+      internalID: 1142996996695400309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_91
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1312
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3187c1dd25a540f20800000000000000
+      internalID: 3387932131632904211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_92
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1313
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a83d4b16600f62b0800000000000000
+      internalID: -5589248173998786394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_93
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1313
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af603ea8e2498910800000000000000
+      internalID: 1840075489879814050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_94
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1313
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26abd2abc6a4026f0800000000000000
+      internalID: -711486910284055966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_95
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1312
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c5a586c1fba17d0800000000000000
+      internalID: -2946832877429826459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_96
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1312
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5400fa53c9dab76b0800000000000000
+      internalID: -5297449650244091835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_97
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1313
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f672fa6ca26e290800000000000000
+      internalID: -7861549066698133728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_98
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1313
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6d31288cec5eeb0800000000000000
+      internalID: -4691116076265384199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_99
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 895
+        width: 770
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372b6ddf5d5d77400800000000000000
+      internalID: 321961013443736179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_100
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 255
+        width: 66
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d6279d0bea960b0800000000000000
+      internalID: -5734860575893983846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_101
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 255
+        width: 66
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd55882f116f4940800000000000000
+      internalID: 5282547674380590559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_102
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 735
+        width: 258
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152c368a907a97040800000000000000
+      internalID: 4645928150531031633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_103
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 607
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81cf74e7317db600800000000000000
+      internalID: 485668819696599434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_104
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbdbf040d8f39ea0800000000000000
+      internalID: -5867072316206490627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_105
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 521
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b2a7402fb27de90800000000000000
+      internalID: -7001078777266951272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_106
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 521
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf20de6736f1945d0800000000000000
+      internalID: -3077894358273555717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_107
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 521
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18dad12763909db0800000000000000
+      internalID: -4787164332735932385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_108
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 521
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c819e8d34f18760800000000000000
+      internalID: 7458511003124337755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_109
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 521
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f9f74a3f2247770800000000000000
+      internalID: 8607543217644085098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_110
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 521
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8f840f3b8fff040800000000000000
+      internalID: 4683735589202753763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_111
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 521
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e07b37047e77d30800000000000000
+      internalID: 4429263022547471873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_112
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 400
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30fceba3412f7660800000000000000
+      internalID: 7385658488441860154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_113
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 400
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8c9d154726b9020800000000000000
+      internalID: 2349579882332801236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_114
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 400
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e259d79c2a9677e0800000000000000
+      internalID: -1768056287379500311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_115
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 400
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e4f5f8472d39f30800000000000000
+      internalID: 4581236644029353626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_116
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 400
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a5a78b03271bd50800000000000000
+      internalID: 6751302869984107143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_117
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 400
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db52caf55ee8e400800000000000000
+      internalID: 353794623795256279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_118
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 400
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0a052b7340a9b80800000000000000
+      internalID: -8387386718762786615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_119
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 239
+        width: 802
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334e77a3a7db05d30800000000000000
+      internalID: 4418239567115052083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_120
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 149
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937807b4b013ba5e0800000000000000
+      internalID: -1897368893426464967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_121
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 162
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cac3a137296fed0800000000000000
+      internalID: -2380554329959650178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_122
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 162
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903a3277e7579bed0800000000000000
+      internalID: -2397756140572925175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_123
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 162
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286cd783c6bc5cd40800000000000000
+      internalID: 5604108976997123714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_124
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 162
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8458525ab7575470800000000000000
+      internalID: 8383265689130521742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_125
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 162
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f86b7c6937d96f50800000000000000
+      internalID: 6875262947790907636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_126
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 162
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b102f8be57777e0800000000000000
+      internalID: -1767814674140619979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_127
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 162
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cb431e100b03560800000000000000
+      internalID: 7291521318832618526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_128
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 162
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83acdd028ba947b20800000000000000
+      internalID: 3131297756545403448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_129
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 162
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfac15625e7c84a0800000000000000
+      internalID: -6589753262401081409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_130
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 162
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09696b96f37a8190800000000000000
+      internalID: -7959421888417404662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_131
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 162
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6897089bf5c74af20800000000000000
+      internalID: 3433005566539102598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_132
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 162
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a785e65dffdcf1140800000000000000
+      internalID: 4692695835424479354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_133
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 162
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c56386560abcc20800000000000000
+      internalID: 3227849915341626405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_134
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 162
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c183e5f421358c880800000000000000
+      internalID: -8590524951103129572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_135
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 162
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6454d3eae2b2230800000000000000
+      internalID: 3615034451782092472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_136
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 158
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4249ec0a0de30e010800000000000000
+      internalID: 1216040965162046500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_137
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 158
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1cf8c2de2d702a0800000000000000
+      internalID: -6771211598631550551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_138
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 158
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0d664f4564164f0800000000000000
+      internalID: -837310725022625574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_139
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 158
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d9f2ebab1a81310800000000000000
+      internalID: 1376027509588466964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_140
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 158
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c73421aed6bebe0800000000000000
+      internalID: -1446942003173295030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_141
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 158
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb167c2fa269c8bf0800000000000000
+      internalID: -320716362244202053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_142
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 157
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c67cb03d6870a0800000000000000
+      internalID: -6883631974348044508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_143
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 158
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa1108dcb20b9900800000000000000
+      internalID: 692149977832561400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_144
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 158
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206c84476c2df71d0800000000000000
+      internalID: -3350727847944075774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_145
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 158
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43cff28bf80d7220800000000000000
+      internalID: 2485152445705995086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_146
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 29
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0a79f31c16a8900800000000000000
+      internalID: 687469375750906103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_147
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 38
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf17979813436340800000000000000
+      internalID: 4855798596137066417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_148
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 38
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206f4d4c68de2e60800000000000000
+      internalID: 7939521152765878310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_149
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 38
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f9368908b1f9070800000000000000
+      internalID: 8115235292671352623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_150
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 36
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe0578053f441f70800000000000000
+      internalID: 9157031031544811253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_151
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 38
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ba5d5c5d049a7b0800000000000000
+      internalID: -5212563806813312129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_152
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 38
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887f8ff1ddff17e70800000000000000
+      internalID: 9111344846336489352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_153
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 38
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee72d85a9a33e5c0800000000000000
+      internalID: -4187438793934864657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_154
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 38
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efff8a91b6d7a8330800000000000000
+      internalID: 3713918741665873918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_155
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 38
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6711e572b6dc0c110800000000000000
+      internalID: 1279248154278891894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_156
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 38
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52be52e5037ea7fb0800000000000000
+      internalID: -4649149470382626011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_157
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 36
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3985ae275a85e9540800000000000000
+      internalID: 5016544502558120083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlast_labels_158
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 38
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc7c62c5ccc48700800000000000000
+      internalID: 541783004933815538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

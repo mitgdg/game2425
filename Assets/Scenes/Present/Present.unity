@@ -1155,7 +1155,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 429e2f1bca313c244bc2c3c8feb6eb85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  test_number: 3
+  playerInventory: 
+  playerMoney: -1
+  currentScene: 
+  lastScene: 
 --- !u!1 &1474297707
 GameObject:
   m_ObjectHideFlags: 0
@@ -1353,6 +1356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventory: 0000000000000000000000000000000000000000
+  money: 100
 --- !u!95 &1474297714
 Animator:
   serializedVersion: 7
@@ -1375,7 +1379,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
-  UICanvas: {fileID: 0}
 --- !u!1 &1545394059
 GameObject:
   m_ObjectHideFlags: 1
