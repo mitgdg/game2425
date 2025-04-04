@@ -12,8 +12,8 @@ public class PlayerInventory : MonoBehaviour
     void Update()
     {
         // Update the player's information in InfoBank
-        InfoBank.instance.playerInventory = inventory;
-        InfoBank.instance.playerMoney = money;
+        InfoBank.Instance.playerInventory = inventory;
+        InfoBank.Instance.playerMoney = money;
 
         if (Input.GetKeyUp(KeyCode.T))
         {

@@ -1,11 +1,10 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class InfoBank : MonoBehaviour
+public class InfoBank : Singleton<InfoBank>
 {
     // This class generates an object instance that holds information about the game state that persists between scene changes.
-    // TODO: Integrate InfoBank with Singleton class (I don't know how Singleton works yet, but it seems to have a similar purpose to InfoBank.)
-    public static InfoBank instance;
+    // public static InfoBank instance;
 
     // All tracked information fields are listed here
     public int[] playerInventory = {};
@@ -14,15 +13,9 @@ public class InfoBank : MonoBehaviour
     public string lastScene = "";
 
     // Initialize the instance when the game starts
-    private void Awake()
+    override protected void Awake()
     {
-        if (instance != null)
-        {
-            Destroy(gameObject);
-            return;
-        }
-
-        instance = this;
+        base.Awake();
         DontDestroyOnLoad(gameObject);
 
         SceneManager.sceneLoaded += OnSceneLoaded;
