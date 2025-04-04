@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      light_compact_atlast_32x32_0: -4888214760360451756
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

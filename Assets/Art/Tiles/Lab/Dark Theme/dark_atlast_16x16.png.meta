@@ -448,7 +448,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dark_atlast_16x16_0: -1446842997453943900
+      dark_atlast_16x16_1: 4260957134859705554
+      dark_atlast_16x16_10: 5230158407719506917
+      dark_atlast_16x16_11: 2424102290979680601
+      dark_atlast_16x16_2: 7317309968115785477
+      dark_atlast_16x16_3: -7510506939442873086
+      dark_atlast_16x16_4: -2241307941701290141
+      dark_atlast_16x16_5: 6933736470222487827
+      dark_atlast_16x16_6: -693135005673713591
+      dark_atlast_16x16_7: -3027767477549264929
+      dark_atlast_16x16_8: 6493847813630304469
+      dark_atlast_16x16_9: -7176087602748114956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
