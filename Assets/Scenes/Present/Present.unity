@@ -1734,12 +1734,12 @@ MonoBehaviour:
   yPoints: 0000000005000000
   currPt: 0
   speed: 5
-  jumpAcceleration: {x: 0, y: -5, z: 0}
-  initialJumpVelocity: {x: 0, y: 0, z: 0}
+  jumpAcceleration: {x: 0, y: -20, z: 0}
+  initialJumpVelocity: {x: 0, y: 7, z: 0}
   transform: {fileID: 2051356990}
   playerInCircle: 0
   player: {fileID: 1474297709}
-  interactText: {fileID: 0}
+  interactText: {fileID: 2674193396595816230, guid: b7098f727a58f4299a2eeb68f6f05716, type: 3}
   addY: 1.5
 --- !u!58 &2051356992
 CircleCollider2D:
