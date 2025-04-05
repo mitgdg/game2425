@@ -9,8 +9,8 @@ public class LeaveShop : MonoBehaviour
     {
         if (Input.GetKeyUp(KeyCode.S))
         {
-            if (InfoBank.instance != null) {
-                SceneManager.LoadScene(sceneName:InfoBank.instance.lastScene);
+            if (InfoBank.Instance != null) {
+                SceneManager.LoadScene(sceneName:InfoBank.Instance.lastScene);
             }
             else {
                 SceneManager.LoadScene(sceneName:"Present");

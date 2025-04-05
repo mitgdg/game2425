@@ -12,8 +12,9 @@ public class MoneyDisplay : MonoBehaviour
 
     void Update()
     {
-        if (InfoBank.instance != null) {
-            moneyText.text = $"Money: ${InfoBank.instance.playerMoney}";
+        if (InfoBank.Instance != null)
+        {
+            moneyText.text = $"Money: ${InfoBank.Instance.playerMoney}";
         }
     }
 }
