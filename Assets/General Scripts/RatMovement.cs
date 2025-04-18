@@ -75,7 +75,7 @@ public class RatMovement : MonoBehaviour
             if (currPt >= xPoints.Length) currPt = 0;
         }
 
-        if (!playerInCircle) transform.position = Vector3.MoveTowards(transform.position, new Vector3(xPoints[currPt], yPoints[currPt], 0), speed * Time.deltaTime);
+        if (!playerInCircle && !justDetectPlayer) transform.position = Vector3.MoveTowards(transform.position, new Vector3(xPoints[currPt], yPoints[currPt], 0), speed * Time.deltaTime);
         else
         {
             if (justDetectPlayer)
