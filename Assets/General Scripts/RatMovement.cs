@@ -39,6 +39,7 @@ public class RatMovement : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.tag != "Player") return;
+        if (justDetectPlayer) return;
         print("player spotted!!");
         playerInCircle = true;
         justDetectPlayer = true;
@@ -58,6 +59,7 @@ public class RatMovement : MonoBehaviour
     void OnTriggerExit2D(Collider2D other)
     {
         if (other.gameObject.tag != "Player") return;
+        if (justDetectPlayer) return;
         print("player left!");
         playerInCircle = false;
         if (tempInteractText != null)
