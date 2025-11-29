@@ -136,4 +136,20 @@ public class PlayerMovement : MonoBehaviour
     {
         _canInteract = a;
     }
+
+    #region save & load!
+    public void Save(ref PlayerSaveData data) {
+        data.position = transform.position;
+    }
+
+    public void Load(PlayerSaveData data) {
+        transform.position = data.position;
+    }
+    #endregion
+
+}
+
+[System.Serializable]
+public struct PlayerSaveData {
+    public Vector3 position;
 }
